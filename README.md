@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Soma-BugBuster
 - 👀 I’m interested in software testing
 - 🌱 I’m currently learning Git, SQL, Selenium and more...
-- 📫 How to reach me: 
+- 📫 How to reach me: elena.valieva.QA@gmail.com
